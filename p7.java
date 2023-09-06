@@ -1,14 +1,14 @@
 public class p7 {
     public static void main(String[] args){
     //operators
-    int a = 1;
-    int b = 2;
+    int a = 121;
+    int b = 2321;
     int add = a+b; 
     System.out.println(add);    //print 3
 
 
-    int c = 10;
-    int d = 20;
+    int c = 10324;
+    int d = 20423;
     int sub = c-d; 
     System.out.println(sub);    //print -10
 
